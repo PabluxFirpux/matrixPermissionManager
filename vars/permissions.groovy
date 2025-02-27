@@ -1,5 +1,4 @@
-import security.PermisionsModifier
-import security.PermissionTags
+import security.*
 // The main methods and functionality of the shared library.
 
 //IMPORTANT: When giving a job name that is within a folder or several, the path to the job should be expressed as follows
